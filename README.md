@@ -1,7 +1,7 @@
 # portfolio
 Personal portfolio website featuring my projects, skills, certifications, and software development journey.
 
-# Mailess Luhanga Portfolio
+# Mailess Luhanga's Portfolio
 
 Welcome to my personal portfolio website.
 
